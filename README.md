@@ -1,5 +1,5 @@
 # phasmophobia-8player-mod-mono
-The changes ive made to the assembly (MONO) for 8 player co-op soon the game will change to IL2CPP.
+The changes ive made to the assembly (MONO) for 8 player co-op. Keep in mind that soon the game will change to IL2CPP. Im working on that :) 
 
 ## Installation
 
