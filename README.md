@@ -1,6 +1,5 @@
 # phasmophobia-8player-mod-mono
-The changes ive made to the assembly (MONO) for 8 player co-op. Keep in mind that soon the game will change to IL2CPP. Im working on that :) 
-
+The changes ive made to the assembly (MONO) for 8 player co-op. Keep in mind that soon the game will change to IL2CPP.
 ## Installation
 
 Place the dll files in your "gamefolder"\Phasmophobia_Data\Managed\ Check out the steam guide [here](https://steamcommunity.com/sharedfiles/filedetails/?id=2252444415) .
